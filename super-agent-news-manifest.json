@@ -1,0 +1,27 @@
+{
+  "citations": [
+    "[androidauthority.com](https://www.androidauthority.com/siri-ai-vs-gemini-hands-on-comparison-3677330/)",
+    "[androidpolice.com](https://www.androidpolice.com/gemini-has-nothing-to-fear-from-the-new-siri-ai/)",
+    "[macrumors.com](https://www.macrumors.com/2026/07/01/tim-cook-constructive-talks-eu-siri-ai-launch/)",
+    "[thenextweb.com](https://thenextweb.com/news/apple-eu-siri-ai-dma-cook-virkkunen-talks)"
+  ],
+  "design_plan": "rng=42; hero_math=max_width_1120_2.3_lines; AIDA=pass; bento_density=grid-auto-flow:dense; label_sweep=ok; button_contrast=black/white_pass",
+  "generated_at": "2026-07-02T16:03:37.674684+00:00",
+  "headline": "Super vs Siri \u2014 personal AI agents for real computer work",
+  "site_brief": {
+    "audience": "people comparing Super with Siri",
+    "competitor": "Siri",
+    "goal": "Create a fair but persuasive competitor comparison page for Super vs Siri. Use supplied sources for current facts, avoid fake claims, and make the practical argument that Super is better suited for repeated computer-use work because its cache can lower repeated execution cost.",
+    "kind": "competitor_comparison",
+    "queries": [
+      "Siri AI agent",
+      "Siri AI assistant",
+      "Siri automation",
+      "personal AI agents",
+      "computer use AI agent"
+    ],
+    "slug": "super-vs-siri",
+    "title": "Super vs Siri"
+  },
+  "summary": "Siri AI is a deeply integrated, privacy\u2011first assistant designed for Apple\u2019s ecosystem. Super is built for people who want a personal AI agent that actually operates computers \u2014 and reuses a computer-use cache so repeated workflows get faster and cheaper over time. This page fairly explains what Siri is great at today, where its limits are, and why Super is the sharper alternative for durable computer\u2011use workflows."
+}
